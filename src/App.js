@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  function f(a, b, c, d) {
+  function G(a, b, c, d) {
     const e = 0.017453292519943295;
     const g = Math.pow(10, 10);
     const h = Math.abs((c - a) * e);
